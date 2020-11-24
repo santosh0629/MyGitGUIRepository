@@ -1,4 +1,4 @@
 Hello,
-I am a tester
-i lives cityname
+I am a dev1
+i lives Hyderabad
 i likes movies
